@@ -1,2 +1,5 @@
 import numpy as np 
-print(np.matrix([ [ 1, 2 ], [ 2, 3 ]]))
+list1 = [1, 2, 3, 4]
+a = np.array(list1)
+
+print(a)
